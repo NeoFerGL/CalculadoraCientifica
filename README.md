@@ -40,7 +40,7 @@ Aquí se muestra la pantalla inicial de la aplicación.
 ---
 
 ### 2. Vista despues de la actualizacion
-Visualización del registro de usuario.  
+Aquí se muestra la pantalla inicial despues de la actualizacion.  
 ![Vista Actualizacion](https://github.com/user-attachments/assets/bfdedc99-e272-482f-a4d9-cffe756502c5)
 
 ---
